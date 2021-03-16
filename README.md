@@ -1,5 +1,5 @@
 # Hi, I'm Benon Maguta
-Check out some of my projects
+Check out some of my Data Science projects
 
 # [Project 1: My-Digits-Classification](https://github.com/Benon172/My-Digits-Classification)
 * Determining the Optimal Model and Hyperparameters for classifying Sklearn's Digits dataset
