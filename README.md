@@ -10,3 +10,6 @@ My data science portfolio
 * Predicting tumor type using Sklearn's breast cancer dataset. 
 * I did not have to do a lot of data cleaning and the data was balanced. 
 * This was part of my revision of Linear classifiers so I only used the SVM Linear classifier.
+* The aim was to be able to predict if a tumor is malignant or benign
+* The scatter plot shown (and others) hinted at a linear model being sufficient
+* Final model predictions are summarized in the confusion matrix shown
