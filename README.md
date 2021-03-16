@@ -13,3 +13,6 @@ My data science portfolio
 * The aim was to be able to predict if a tumor is malignant or benign
 * The scatter plot shown (and others) hinted at a linear model being sufficient
 * Final model predictions are summarized in the confusion matrix shown
+
+![](https://github.com/Benon172/Benon_Portfolio/blob/main/images/download%20(1).png)
+![](https://github.com/Benon172/Benon_Portfolio/blob/main/images/download.png)
