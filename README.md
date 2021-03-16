@@ -14,5 +14,6 @@ My data science portfolio
 * The scatter plot shown (and others) hinted at a linear model being sufficient
 * Final model predictions are summarized in the confusion matrix shown
 
-![](https://github.com/Benon172/Benon_Portfolio/blob/main/images/download%20(1).png)
-![](https://github.com/Benon172/Benon_Portfolio/blob/main/images/download.png)
+![download (1)](https://user-images.githubusercontent.com/65770102/111370328-c4d33f00-86a0-11eb-8d3a-52c9915ce3c1.png)
+
+![download](https://user-images.githubusercontent.com/65770102/111369523-d49e5380-869f-11eb-9854-afbe980f3942.png)
